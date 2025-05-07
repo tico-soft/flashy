@@ -21,3 +21,6 @@ Flashy is a terminal-based tool that allows you to back up and restore the RW_LE
 cd ~/Downloads
 
 bash flashy.sh
+
+
+![Flashy](https://github.com/user-attachments/assets/0e92bdab-2c36-481d-9633-540a62ea5432)
