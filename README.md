@@ -13,7 +13,7 @@ Flashy is a terminal-based tool that allows you to back up and restore the RW_LE
 
 ## Usage
 
-1. Copy and paste the script into a file called `flashy.sh`
+1. Copy and paste the script into your text editor and save it as a file called `flashy.sh`
 2. Save it to your Chromebook’s `Downloads` folder
 3. Open Crosh (Ctrl+Alt+T), type `shell`, and run:
 
